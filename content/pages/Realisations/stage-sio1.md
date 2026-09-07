@@ -7,7 +7,7 @@ Title: Stage SIO1
 > - **Date début :** 26/05/2025
 > - **Date fin :** cheplu/07/2025
 >
-> **Entreprise :** Nom de l'entreprise
+> **Entreprise :** Cégia créations
 
 
 
